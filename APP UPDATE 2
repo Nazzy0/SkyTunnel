@@ -1,9 +1,9 @@
 {
 "newVersion": "5",
-"apkUrl": "https://www.mediafire.com/file/lc7nkc2nouvv12d/Sky_Tunnel.apk/file",
+"apkUrl": "https://play.google.com/store/apps/details?id=org.tunnelcore.alz",
 "versionNotes":"
-• Fixed Host Checker
-• Fixed DNS
-• New Features Added
+• Fixed Android 12 Crashes
+• Fixed Add Timer
+• Fixed Custom Setup
 "
 }
